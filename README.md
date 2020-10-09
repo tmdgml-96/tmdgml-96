@@ -21,5 +21,3 @@ Here are some ideas to get you started:
   </div>
   
   🌱
-    [![Tistory Badge](http://img.shields.io/badge/-Tistory%20blog-black?style=flat-square&logo=Tistory&link=https://dkanxmstmdgml.tistory.com//)](https://dkanxmstmdgml.tistory.com/)
-
