@@ -17,3 +17,7 @@
 - Learn anything
 - Doing anything
 - To record anything
+
+
+At this link, I've mainly recorded my favorite things and things I've done.
+[![Tistory]https://dkanxmstmdgml.tistory.com/](https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>)
