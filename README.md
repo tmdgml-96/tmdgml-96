@@ -13,7 +13,7 @@
 
   </div>
 
-🌱favorite thing
+🌱 favorite thing
 - Learn anything
 - Doing anything
 - To record anything
