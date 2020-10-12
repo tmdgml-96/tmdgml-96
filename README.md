@@ -5,7 +5,7 @@
   ### 👋   
   ##### I am currently learning development on my own or with the help of those around me.
   ##### Also I am finding my interests and fields by doing anything myself.
-  #####
+  ##### 🍀 🍀 🍀
   ##### It’s still clumsy, but it’s developing slowly,
   ##### I am recording my day hard.
 
