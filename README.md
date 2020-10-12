@@ -4,6 +4,9 @@
   
   ### 👋 
   #### seunghee Park
+  
+  ##### I am currently learning development on my own or with the help of those around me.
+  ##### Also I am finding my interests and fields by doing anything myself.
 
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tmdgml-96)](https://github.com/anuraghazra/github-readme-stats)
 
