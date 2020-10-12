@@ -20,4 +20,4 @@
 
 
 At this link, I've mainly recorded my favorite things and things I've done.
-[![Tistory]](https://img.shields.io/static/v1?label=Tistory<LABEL>&message=seunghee<MESSAGE>&color=yellowgreen<COLOR>)
+![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)
