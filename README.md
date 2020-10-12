@@ -19,8 +19,8 @@
 - To record anything
 
   <div align=center>
-  At this link, I've mainly recorded my favorite things and things I've done.
-  ### ⬇⬇⬇
-  [![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/)
+	
+  At this link, I've mainly recorded my favorite things and things I've done.  [![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/)
+  
   </div>
 
