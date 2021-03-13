@@ -3,7 +3,7 @@
 > #### :blossom: I literally luv _______.
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#new things(e.g. new Technology)ㅤ#C++ㅤ#Androidㅤ#Kotlinㅤ#algorithm
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#Yogaㅤ#Personal development
-![](https://img.shields.io/badge/C++-★★★☆☆-blue)  ![](https://img.shields.io/badge/Kotlin-★★★☆☆-blueviolet)
+![](https://img.shields.io/badge/C++-★★★☆☆-blue)  ![](https://img.shields.io/badge/Kotlin-★★★☆☆-blueviolet) ![](https://img.shields.io/badge/Python-★★☆☆☆-yellow)
 ---
 
 :star: GitHub Stats        |  :fire: BOJ Stats
