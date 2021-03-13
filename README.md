@@ -4,10 +4,10 @@
 ![](https://img.shields.io/badge/C++-★★★☆☆-blue)  ![](https://img.shields.io/badge/Kotlin-★★★☆☆-blueviolet)
 ---
 
-##### :star: GitHub Stats
+#### :star: GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tmdgml-96)](https://github.com/anuraghazra/github-readme-stats)
 
-##### :fire: BOJ Stats
+#### :fire: BOJ Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkanxms12)](https://solved.ac/dkanxms12)
 
@@ -16,4 +16,4 @@
 ---
 
 [![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/)
-##### -> The Tistory is a space where I have recorded my favorite things.
+###### The Tistory is a space where I have recorded my love things! :>:heartpulse:
