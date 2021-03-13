@@ -8,9 +8,13 @@
 
   </div>
   
-  <div align=center>
+  <div>
 	
   [![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/)  
-  At this link, I've mainly recorded my favorite things and things I've done.
+  At this link, I've mainly recorded my favorite things and things I've done.<br/>
+  :)<br/><br/>
   
   </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkanxms12)](https://solved.ac/dkanxms12)
