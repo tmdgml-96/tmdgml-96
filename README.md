@@ -6,12 +6,9 @@
 ![](https://img.shields.io/badge/C++-★★★☆☆-blue)  ![](https://img.shields.io/badge/Kotlin-★★★☆☆-blueviolet)
 ---
 
-#### :star: GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tmdgml-96)](https://github.com/anuraghazra/github-readme-stats)
-
-#### :fire: BOJ Stats
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkanxms12)](https://solved.ac/dkanxms12)
+:star: GitHub Stats        |  :fire: BOJ Stats
+:-------------------------:|:-------------------------:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tmdgml-96)](https://github.com/anuraghazra/github-readme-stats)   |  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dkanxms12)](https://solved.ac/dkanxms12)
 
 <br>
 
