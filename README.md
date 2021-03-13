@@ -14,4 +14,9 @@
   At this link, I've mainly recorded my favorite things and things I've done.
   
   </div>
+  
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={dkanxms12})](https://solved.ac/{dkanxms12})
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={dkanxms12})](https://solved.ac/{dkanxms12})
