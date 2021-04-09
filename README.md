@@ -15,6 +15,6 @@
 
 ---
 
-[![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/)
+[![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/387?category=835175)
 ###### The Tistory is a space where I have recorded my love things! :>:heartpulse:
  
