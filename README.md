@@ -4,7 +4,11 @@
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#new things(e.g. new Technology)ㅤ#C++ㅤ#Androidㅤ#Kotlinㅤ#Algorithm
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#Record&Save
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#Yogaㅤ#Personal developmentㅤ#Mountaineering
-![](https://img.shields.io/badge/C++-★★★☆☆-blue)  ![](https://img.shields.io/badge/Kotlin-★★★☆☆-blueviolet) ![](https://img.shields.io/badge/Python-★★☆☆☆-yellow)
+
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) 
+![](https://img.shields.io/static/v1?label=&logo=Kotlin&logoColor=white&message=Kotline&color=blue) 
+![](https://img.shields.io/static/v1?label=&logo=Python&logoColor=white&message=Python&color=9cf)    
+![](https://img.shields.io/badge/C++-★★★☆☆-white) ![](https://img.shields.io/badge/Kotlin-★★★☆☆-white) ![](https://img.shields.io/badge/Python-★★☆☆☆-white)
 ---
 
 :star: GitHub Stats        |  :fire: BOJ Stats
@@ -15,6 +19,7 @@
 
 ---
 
-[![Tistory](https://img.shields.io/static/v1?label=Tistory&message=seunghee&color=yellowgreen)](https://dkanxmstmdgml.tistory.com/387?category=835175)
+[![](https://img.shields.io/static/v1?label=&logo=Tistory&message=Tistory&color=lightgray)](https://dkanxmstmdgml.tistory.com/387?category=835175)
+[![](https://img.shields.io/static/v1?label=&logo=Instagram&logoColor=white&message=Instagram&color=ff69b4)](https://www.instagram.com/seunghee._.park/)    
 ###### The Tistory is a space where I have recorded my love things! :>:heartpulse:
  
