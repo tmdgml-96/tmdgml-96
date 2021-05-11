@@ -5,9 +5,8 @@
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#Record&Save
 >   > ######   ㅤㅤㅤㅤㅤㅤㅤ#Yogaㅤ#Personal developmentㅤ#Mountaineering
 
-![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) 
-![](https://img.shields.io/static/v1?label=&logo=Kotlin&logoColor=white&message=Kotline&color=blue) 
-![](https://img.shields.io/static/v1?label=&logo=Python&logoColor=white&message=Python&color=9cf)    
+
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![](https://img.shields.io/static/v1?label=&logo=Kotlin&logoColor=white&message=Kotline&color=blue)  ![](https://img.shields.io/static/v1?label=&logo=Python&logoColor=white&message=Python&color=9cf)      
 ![](https://img.shields.io/badge/C++-★★★☆☆-white) ![](https://img.shields.io/badge/Kotlin-★★★☆☆-white) ![](https://img.shields.io/badge/Python-★★☆☆☆-white)
 ---
 
